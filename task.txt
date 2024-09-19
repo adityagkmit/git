@@ -4,3 +4,5 @@ How to resolve divergent branches
 git tags
 
 main branch -> staging branch -> features branch -> Initial Structure
+
+edit after adding .gitignore
