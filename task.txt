@@ -1,1 +1,6 @@
-test
+difference between github, gitlab and bitbucket
+branch protection rules
+How to resolve divergent branches
+git tags
+
+main branch -> staging branch -> features branch -> Initial Structure
